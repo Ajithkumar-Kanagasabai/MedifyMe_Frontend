@@ -7,7 +7,7 @@ import { CookiesProvider } from "react-cookie";
 import { GoogleOAuthProvider } from "@react-oauth/google";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-const GOOGLE_CLIENT_ID = "745500314459-1vpfbmulqi0ekajshi4nsgdoqu88jr0h.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "881838406228-9bqa8vfdkv44qurbcvktob8cccu9d9of.apps.googleusercontent.com";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <CookiesProvider>
